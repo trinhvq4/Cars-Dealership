@@ -1,8 +1,8 @@
-# Cars-Dealership
+# fullstack_developer_capstone
 
-# 🚗 Cars Dealership Web Application
+## 🏎️ AutoElite: Cars Dealership Management System
 
-## 📌 Project Overview
+This project is a robust, full-stack web application developed as part of the **IBM Full Stack Developer Capstone** project. It features a Django backend, a React frontend, and integrated AI microservices.
 
 The **Cars Dealership Web Application** is a full-stack web project that allows users to browse available cars, view dealership information, and interact with dealership services online.
 
